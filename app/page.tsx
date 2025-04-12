@@ -41,7 +41,7 @@ export default function Home() {
             홈
           </Link>
           <Link href="#features" className="text-sm font-medium text-gray-700 hover:text-cyan-600 transition-colors">
-            특징
+            퍼널 특징
           </Link>
           <Link href="#use-cases" className="text-sm font-medium text-gray-700 hover:text-cyan-600 transition-colors">
             사용 사례
